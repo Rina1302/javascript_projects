@@ -20,14 +20,20 @@
 // alert(tipAmount)
 // console.log(total);
 //user 
-food =prompt("how much food cost?")
-tipPercentage=Number(prompt("how much food tip you give %?")/100);
-tipAmount= food * tipPercentage
-total= number(tipAmount + food)
-console.log(tipAmount)
-console.log(total)
+// food =prompt("how much food cost?")
+// tipPercentage=Number(prompt("how much food tip you give %?"))/100;
+// tipAmount= food * tipPercentage
+// total= Number(tipAmount + food)
+// console.log(tipAmount)
+// console.log(total)
+
+// Math.ceil(12.0222)
+// console.log(Math.ceil(12.0222))
 
 
+//baby weather app(conditionals)
 
+// if rain grab our umbrella
+// if not wear you sunglassess
 
 
